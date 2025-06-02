@@ -1,0 +1,44 @@
+# Object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Static/Shared libs
+*.a
+*.so
+*.dll
+*.dylib
+
+# Debug/Release folders (common in IDEs)
+debug/
+Debug/
+release/
+Release/
+
+# IDE/editor files
+.vscode/
+*.code-workspace
+*.sublime-workspace
+*.sublime-project
+*.idea/
+*.vcxproj*
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# Logs and temp files
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
